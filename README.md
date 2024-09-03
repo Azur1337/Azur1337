@@ -1,6 +1,4 @@
-- Hi, Im Azur
-- I’m interested in women
-- I’m currently learning Rust and React
+
 
 <!---
 Azur1337/Azur1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
