@@ -25,8 +25,8 @@ I enjoy crafting interfaces that might look simple at first glance, but are tech
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azur1337&show_icons=true&theme=material-palenight&bg_color=151b23&title_color=DAC1F9&icon_color=DAC1F9&text_color=97A5BA&border_color=3d444d&rank_icon=github" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azur1337&layout=compact&theme=material-palenight&bg_color=151b23&title_color=DAC1F9&icon_color=DAC1F9&text_color=97A5BA&border_color=3d444d" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azur1337&show_icons=true&theme=material-palenight&bg_color=151b23&title_color=88a2e2&icon_color=88a2e2&text_color=97A5BA&border_color=3d444d&rank_icon=github" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azur1337&layout=compact&theme=material-palenight&bg_color=151b23&title_color=88a2e2&icon_color=88a2e2&text_color=97A5BA&border_color=3d444d" alt="Top Languages" height="150"/>
 </p>
 
 
