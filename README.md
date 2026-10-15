@@ -2,15 +2,18 @@
   <img src="banner.png" alt="Full-stack Developer Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I’m (Azur)</h1>
+<h1 align="center">Azur</h1>
 
 <p align="center">
-  <b>Computer Science Student</b> @ Hochschule Bochum • <b>Systems & Web Engineer</b>
+  Systems & Web Engineer · CS student @ Hochschule Bochum
 </p>
 
 <p align="center">
-  I bridge the gap between <b>System Engineering</b> and <b>Modern Web Development</b>. <br>
-  I build <b>secure, high-performance applications</b> with a focus on clean architecture, type safety, and polished UI/UX.
+  I build high-performance web apps and system tools. SvelteKit on top, Rust underneath, Linux holding it together.
+</p>
+
+<p align="center">
+  Most of my time goes into breaking systems apart to see why they're slow, then putting them back together. But better.
 </p>
 
 <p align="center">
@@ -24,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
 ### Core & Systems
 - **Languages:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="14"/> Rust • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14"/> TypeScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="14"/> C#
@@ -44,20 +47,18 @@
 ### Design
 - **Tools:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="14"/> Figma
 
----
+## Currently
 
-## 📊 GitHub Stats
+- Working the seam between bare-metal systems (Rust, Linux) and lightweight UI (SvelteKit), chasing down where the friction is.
+- Rebuilding my own infra from scratch on NixOS.
+- Reverse-engineering things to see how they actually work: protocols, browser internals, the occasional rabbit hole.
+
+## GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azur1337&show_icons=true&theme=material-palenight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&rank_icon=github&hide_border=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azur1337&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Top Languages" height="150"/>
 </p>
-
-## 💡 What I Do
-I’m passionate about **system-level programming** (Rust) and creating **resilient web infrastructure**.
-Currently, I am:
-* 🦀 Exploring **Rust** for CLI tools and memory-safe applications.
-* ❄️ Diving into **NixOS** and declarative system configurations.
-* 🚀 Migrating legacy enterprise apps to modern **.NET & SvelteKit** architectures.
 
 <p align="center">
   <img src="footer.png" alt="Full-stack Developer Footer" width="100%">
